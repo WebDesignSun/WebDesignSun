@@ -17,5 +17,8 @@ AI-first design and development company. Web apps, mobile apps, e-commerce, and 
 - [Profit-sharing e-commerce platform](https://webdesignsun.com/case-studies/profit-sharing-e-commerce-platform): custom storefront with a Python scoring engine and a Django admin that runs without developers.
 - [SMS marketing SaaS](https://webdesignsun.com/case-studies/saas-web-application-for-sms-campaigns): UI/UX and full build for a startup. Segmentation, automation, campaign analytics, Stripe billing.
 
-## Work with us
-🌐 [webdesignsun.com](https://webdesignsun.com) · 💼 [LinkedIn](https://www.linkedin.com/company/web-design-sun) · ✉️ contact@webdesignsun.com
+## More About Us
+🌐 [webdesignsun.com](https://webdesignsun.com) · 💼 [LinkedIn](https://www.linkedin.com/company/web-design-sun)
+
+## Get in Touch
+✉️ [Submitt a form] https://webdesignsun.com/contact ✉️ [Email] contact@webdesignsun.com
